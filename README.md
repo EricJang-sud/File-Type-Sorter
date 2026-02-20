@@ -43,6 +43,9 @@ Over time, folders like **Downloads**, **Desktop**, or shared drives become clut
 ## 3. Impact
 
 ### Before
+
+Without the script, you are manually scanning through every file, reading each name and extension, deciding where it belongs, and dragging it into the right folder — one file at a time. For a folder with 50–100 files, this can easily take **15–30 minutes** of repetitive work. For larger directories with 100+ files, it could take several minutes or even worse, hours. This process must be repeated every time the folder gets cluttered again, creating an ongoing time cost.
+
 ```
 Downloads/
 ├── budget_2025.xlsx
@@ -57,6 +60,9 @@ Downloads/
 ```
 
 ### After
+
+The script completes the same task in **under 5 seconds**, regardless of how many files are in the directory. A folder with 9 files or 900 files is sorted almost instantly. Running it once a week on your Downloads folder means you reclaim **hours per month** that would otherwise be spent on manual organization. Over a year, that adds up to **significant productivity gains** — time you can redirect toward actual work instead of digital housekeeping.
+
 ```
 Downloads/
 ├── Data/
